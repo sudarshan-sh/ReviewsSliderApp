@@ -4,6 +4,8 @@
 
 Basic React app that lists the reviews given by different working professionals.
 
+![Reviews Slider App](https://github.com/sudarshan-sh/ReviewsSliderApp/blob/main/Images/my-reviews-slider.png)
+
 ## Functional
 
 *   The list of reviews are arranged in a slide format.
